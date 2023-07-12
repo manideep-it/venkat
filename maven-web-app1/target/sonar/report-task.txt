@@ -1,0 +1,6 @@
+projectKey=venkatit:maven-web-app1
+serverUrl=http://34.230.39.197:9000
+serverVersion=7.0.0.36138
+dashboardUrl=http://34.230.39.197:9000/dashboard/index/venkatit:maven-web-app1
+ceTaskId=AYkwV6szvU0gJDtWICB8
+ceTaskUrl=http://34.230.39.197:9000/api/ce/task?id=AYkwV6szvU0gJDtWICB8
